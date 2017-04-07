@@ -1,0 +1,10 @@
+.idea/
+
+# Python
+train/__pycache__/
+*.pyc
+
+# data
+/data/
+
+config.py
