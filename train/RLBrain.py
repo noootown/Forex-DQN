@@ -83,9 +83,6 @@ class DeepNetwork:
         # Q learning start
         action = self.chooseAction(state, isTrain)
 
-        if not isTrain:
-          print(action)
-
         reward = 0
         if action == STOP:
           reward = account.stop()
