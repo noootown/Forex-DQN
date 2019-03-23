@@ -1,5 +1,7 @@
 # Forex-DQN
 
+## NOT MAINTAINED
+
 This project is build to trade forex automatically. It is build upon the concept of DQN (Deep Q Network) and projects below.
 
 - [MorvanZhou/Tutorials](https://github.com/MorvanZhou/tutorials)
