@@ -7,7 +7,7 @@ olefile==0.44
 pachi-py==0.0.21
 packaging==16.8
 pandas==0.19.2
-Pillow==4.0.0
+Pillow==6.2.0
 protobuf==3.2.0
 pyglet==1.2.4
 PyOpenGL==3.1.0
