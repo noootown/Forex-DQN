@@ -2,7 +2,7 @@ appdirs==1.4.2
 cycler==0.10.0
 imageio==2.1.2
 mujoco-py==0.5.7
-numpy==1.12.0
+numpy==1.21.0
 olefile==0.44
 pachi-py==0.0.21
 packaging==16.8
